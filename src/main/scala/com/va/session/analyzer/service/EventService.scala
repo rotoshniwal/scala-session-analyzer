@@ -1,4 +1,4 @@
-package com.verto.session.analyzer.service
+package com.va.session.analyzer.service
 
 trait EventService {
   def isEventTransition(eventCategory: String, parentCategory: String): Boolean

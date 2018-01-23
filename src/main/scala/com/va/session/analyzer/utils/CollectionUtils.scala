@@ -1,5 +1,7 @@
-package com.verto.session.analyzer.utils
+package com.va.session.analyzer.utils
 
+import com.data.session.analyzer.model.EnrichedEvent
+import com.va.session.analyzer.model.EnrichedEvent
 import com.verto.session.analyzer.model.EnrichedEvent
 import play.api.libs.json.JsValue
 /**

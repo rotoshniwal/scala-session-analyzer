@@ -1,6 +1,6 @@
-package com.verto.session.analyzer.service.impl
+package com.va.session.analyzer.service.impl
 
-import com.verto.session.analyzer.service.EventService
+import com.va.session.analyzer.service.EventService
 
 /**
   * Contains the business logic functions around event data

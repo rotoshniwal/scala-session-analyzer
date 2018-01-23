@@ -1,4 +1,4 @@
-package com.verto.session.analyzer.model
+package com.va.session.analyzer.model
 
 import scala.collection.mutable
 

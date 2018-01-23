@@ -1,5 +1,11 @@
-package com.verto.session.analyzer.controller
+package com.va.session.analyzer.controller
 
+import com.data.session.analyzer.model.{EnrichedEvent, Session}
+import com.data.session.analyzer.service.impl.EventServiceImpl
+import com.data.session.analyzer.utils.{CollectionUtils, JsonUtils}
+import com.va.session.analyzer.model.{EnrichedEvent, Session}
+import com.va.session.analyzer.service.impl.EventServiceImpl
+import com.va.session.analyzer.utils.{CollectionUtils, JsonUtils}
 import com.verto.session.analyzer.model.{EnrichedEvent, Session}
 import com.verto.session.analyzer.service.impl.EventServiceImpl
 import com.verto.session.analyzer.utils.{CollectionUtils, JsonUtils}

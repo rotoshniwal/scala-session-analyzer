@@ -1,4 +1,4 @@
-package com.verto.session.analyzer.utils
+package com.va.session.analyzer.utils
 
 import play.api.libs.json.{JsValue, Json}
 
